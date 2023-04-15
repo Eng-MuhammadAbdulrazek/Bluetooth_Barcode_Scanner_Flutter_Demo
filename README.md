@@ -1,16 +1,8 @@
-# test_qr
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Bluetooth Barcode Scanner Flutter App
+ 
+ This is a demo for a smart cart app 
+ 
+ in this demo i've imlemented Bluetooth Ble to make a serial UART communication with an esp32 BLE device
+ the esp32 is connected to barcode scanner which reads barcodes & send them to the app using bluetooth service
+ 
+ Used scanner : GM65 1D 2D barcode scanner
